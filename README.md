@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Link](#link)
-- [My process](#my-process)
   - [Built with](#built-with)
 
 ## Overview
@@ -17,7 +16,7 @@ Here you can take a look at the solution I provided to this Frontend Mentor chal
 
 ### Screenshot
 
-!(https://danieltelesr.github.io/QR-code-component/images/image-qr-code.png)
+![image](https://user-images.githubusercontent.com/110556268/210913582-f4be74e9-6a44-4959-9dd1-3a183828ec99.png)
 
 ### Link
 
