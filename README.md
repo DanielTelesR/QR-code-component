@@ -17,7 +17,7 @@ Here you can take a look at the solution I provided to this Frontend Mentor chal
 
 ### Screenshot
 
-![image.png]
+image.png
 
 ### Link
 
