@@ -1,42 +1,35 @@
 body {
-    font-size: 15px;
+    font-size: 0.94rem;
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
-    display: inline-block;
-    text-align: center;
 }
 
-img {
-    border-radius: 20px;
-    width: 350px;
-}
-
-.container {
+main {
     background-color: hsl(0, 0%, 100%);
-    padding: 20px;
-    border-radius: 20px;
+    max-width: 320px;
+    padding: 1.25rem;
+    border-radius: 1.25rem;
+    display: inline-block;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
 }
 
-.image {
-    width: fit-content;
+img {
+    border-radius: 1.25rem;
+    width: 100%;
 }
 
-.heading {
-    padding-top: 10px;
-    width: 350px;
+h1 {
+    padding-top: 0.625rem;
     color: hsl(218, 44%, 22%);
-    font-size: 15px;
+    font-size: 1rem;
     line-height: 1.25;
     text-align: center;
 }
 
-.text {
-    width:350px;
-    position: relative;
+p {
     text-align: center;
     color: hsl(220, 15%, 55%);
     text-decoration: none;
